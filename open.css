@@ -11,8 +11,8 @@ body {
   position: absolute;
   top: calc(50vh - 200px);
   left: calc(50vw - 150px);
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
 }
 
 #envelope > * {
